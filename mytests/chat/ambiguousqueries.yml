@@ -1,0 +1,6 @@
+expected:
+- Could you please provide more details or clarify your request?
+id: dc47fb22-2e26-4334-8847-6735b2984fcd
+input:
+- content: Apple
+  role: user

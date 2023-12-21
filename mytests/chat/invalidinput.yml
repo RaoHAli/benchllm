@@ -1,0 +1,7 @@
+expected:
+- It seems you entered a sequence of characters that doesn't form a recognizable word
+  or question.
+id: 55ffa87c-3a78-4d36-a0ab-01466aa50ffd
+input:
+- content: khjguyu!
+  role: user

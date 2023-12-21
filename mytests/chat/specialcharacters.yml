@@ -1,0 +1,6 @@
+expected:
+- 2 + 2 equals 4.
+id: 30630589-6ab9-4255-b05f-d3a531a83fdd
+input:
+- content: What is 2 + 2?
+  role: user

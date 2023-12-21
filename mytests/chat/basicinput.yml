@@ -1,0 +1,7 @@
+expected:
+- Paris
+- The capital of France is Paris.
+id: aa912363-e86b-47fd-8a4c-567a50a097fa
+input:
+- content: What is the capital of France?
+  role: user

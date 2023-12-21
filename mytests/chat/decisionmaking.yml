@@ -1,0 +1,9 @@
+expected:
+- Friday.
+- It will be Friday.
+- If today is Wednesday and you want to know the day of the week 100 days from now,
+  the answer is Friday.
+id: 46a3f259-5bc2-444e-ad00-f4323cc672a3
+input:
+- content: If today is Wednesday, what day of week will it be 100 days from now?
+  role: user
